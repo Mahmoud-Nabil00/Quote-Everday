@@ -1,0 +1,28 @@
+h1 {
+    font-family: "Poetsen One", sans-serif;
+    font-size: 80px;
+}
+h2{
+
+    font-family: "Sedan SC", serif;
+    font-size: 30px;
+    text-align: center;
+}
+.hero{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+.hero button{
+   padding-left: 6rem;
+   padding-right: 6rem;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   background-color: blue;
+   color: white;
+}
+.hero button:hover{
+
+    background-color: green;
+}
